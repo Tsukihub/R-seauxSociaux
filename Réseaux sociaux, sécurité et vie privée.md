@@ -42,6 +42,23 @@ Le développement web consite en la construction de site web et nécessite l'app
  * Le thème de cet atelier nous concerne tous. Nous allons en effet vous faire découvrir la face cachée des réseaux sociaux. 
 
 *********************************************************************************
+Déroulement de l'atelier
+---
+* Définitions
+* Présentation des principaux réseaux sociaux
+* Débat
+ * Atelier hacking
+ * Présentation des données présentes sur facebook
+* Sécurisation
+ * Paramètres facebook
+* Présentation des outils de sécurisation et mise en évidence de la collecte de données
+ * terms of use
+ * lightbeam
+ * ghostery
+* Conclusion
+
+********************************************************************************
+
 Atelier
 ======= 
 > Qu'est-ce qu'un réseau social ?
