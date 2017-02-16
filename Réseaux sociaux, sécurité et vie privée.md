@@ -8,7 +8,7 @@ Participants
 nombre participants  
 ---
 4 personnes minimum  
-8 personnes max  
+10 personnes max  
 
 encadrants
 -----
@@ -22,6 +22,8 @@ Légende
 Matériel
 ========
 Tableau ou paper board feutres 4 pc avec internet
+Les PC doivent déjà avoir "*Ghostery*, *LightBeam*, *TermsofUse didn't read*.  
+Projecteur indispensable !  
 
 *********************************************************************************
 Présentation
@@ -153,7 +155,8 @@ Les réseaux sociaux donc présentent de nombreuses failles, comme la difficult�
 On propose à tous les participants, par groupe de 2 ou 3 pendant 15 minutes, de pirater un compte Facebook (Johanna Martin, faux compte) en montrant par la suite qu'on a accès à toutes ses données.  
 Pour trouver le mot de passe Facebook, on identifie des indices par rapport aux contenus du profil (mdp: à définir).  
 Les encadrants sont là pour guider les groupes.  
-Montrer à quel point nos données sont collectées et stockées, revendues (montrer exemple dans Paramètres généraux > Télécharger une copie) avec téléchargement des données facebook. 
+Si les candidats ne trouvent pas au bout de 3 tentatives, on commence à fournir des indices (mdp: JohannaParis).  
+Montrer à quel point nos données sont collectées et stockées, revendues (montrer exemple dans Paramètres généraux > Télécharger une copie) avec téléchargement des données facebook.  
 
 > Faire télécharger ses données à un volontaire si pas de volontaires utiliser faux compte. 
 
