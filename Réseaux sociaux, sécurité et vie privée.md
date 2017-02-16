@@ -40,7 +40,7 @@ Le développement web consite en la construction de site web et nécessite l'app
 
 > Demander si précisions désirées ou si l'on se focalise sur les réseaux sociaux.
 
-* Et dans ce cadre, cet atelier nous permettra d'apprendre à transmettre nos connaissance à un publique non spécialiste. Autrement dit d'apprendre à vulgariser des termes techniques et à s'exprimer clairement. 
+* Et dans ce cadre, cet atelier nous permettra d'apprendre à transmettre nos connaissances à un publique non spécialiste. Autrement dit d'apprendre à vulgariser des termes techniques et à s'exprimer clairement. 
 
  * Le thème de cet atelier nous concerne tous. Nous allons en effet vous faire découvrir la face cachée des réseaux sociaux. 
 
