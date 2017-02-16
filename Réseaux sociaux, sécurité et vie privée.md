@@ -7,7 +7,7 @@ Participants
 nombre participants  
 ---
 4 personnes minimum  
-8 personnes max  
+10 personnes max  
 
 encadrants
 -----
@@ -167,15 +167,46 @@ On peut néanmoins limiter les risques de récupération de données personnelle
 
 Sécurisation 
 ---
->Atelier modification des paramètres facebook
 > Qui a lue la **charte**?
+>Atelier modification des paramètres facebook
+
+Le premier pas vers la sécurité ce fait sur Facebook même, dans les **Paramètres** puis dans **Sécurité**, à partir de là, vous pouvez activer les **alertes de connexion**, par mail ou par notification. Ces notifications nous alertent lorsqu'une connexion sur notre compte a lieu depuis un appareil ou un navigateur non reconnu.  
+
+Jetez ensuite un coup d'oeil aux **approbations de connexion** pour activer un deuxième facteur de connexion, en plus de votre mot de passe. Vous pouvez le faire par *SMS*, *générateur de code* depuis l'application mobile, *codes de récupération* et depuis peu une clé USB de sécurité U2F.  
+Relier votre compte Facebook à votre numéro de téléphone est l'un des moyens de sécurité le plus important.  
+
+
+Une autre option bien pratique, est de pouvoir surveiller toutes les connexions au compte dans **où vous êtes connecté(e)**, vous pourrez ainsi voir, par type d'utilisation, la date des derniers accès, le lieu et le type d'appareil (ex: Chrome sur Linux).
+
+Enfin, en dehors de Facebook, faites attention à ce que vous recevez dans vos mails, aux sites que vous visitez. Certains virus notent tout ce que vous tapez sur votre ordinateur ou téléphone, et donc, forcément, vos mots de passe.
+
+Suggérer aux auditeurs de poursuivre leurs investigations sur les possibilités offertes par les paramètres.
+
 > noter ce qu'ils en ont retenu ou leurs préjugés sur son contenu?
 > Si non cité leur demander si facebook peut utiliser librement leur photos?
+
 > Présenter logiciel **terms of service**
 
-Facebook ne se limite pas a lui même mais "traque" sur les autres sites passage court sur **Lightbeam** puis... 
+Ce logiciel permet de mettre en évidence les parties dignes d'intérêt des chartes d'utilisations des sites internets. Les points positifs et négatifs des licences sont clairement identifiés.   
+Montrer la comparaison entre la taille de la charte facebook et le résumé de terms of use.
 
-> atelier **ghostery**.
+Charte facebook : https://www.facebook.com/terms
+Pour télécharger terms of use : https://tosdr.org/
+
+Points notables de la charte :
+
+Vos données sont partagées avec de nombreux services comme Bing et TripAdvisor.
+
+Facebook trace votre activité sur les autres sites webs. Ces données sont utilisées pour cibler vos publicités.
+
+
+Facebook ne se limite pas a lui même mais "traque" sur les autres sites passage court sur **Lightbeam** puis... 
+Pour télécharger lightbeam : https://www.mozilla.org/fr/lightbeam/
+On voit bien que facebook envoie des données à de nombreux sites.
+
+Présentation de **ghostery**.
+Pour télécharger ghostery : https://extension.ghostery.com/en/settings
+Supposé désactiver l'envoie de données vers sites tiers.
 
 
 conclusion
