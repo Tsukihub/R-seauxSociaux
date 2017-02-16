@@ -1,5 +1,6 @@
 <center>Les Réseaux Sociaux, Sécurité et vie privée</center>
-=======
+============================================================
+
 Aspects Pratiques
 =================
 Participants
@@ -7,7 +8,7 @@ Participants
 nombre participants  
 ---
 4 personnes minimum  
-10 personnes max  
+8 personnes max  
 
 encadrants
 -----
@@ -132,88 +133,90 @@ Mise en place d'un débat sur les avantages et inconvénients des réseaux socia
 
 * Un encadrant défend les résaux sociaux l'autre les dénigre, chaque participant se place d'un côté ou l'autre de la salle et peut apporter son point de vue à tout moment.
 
-### Avantages:
-* visibilité
-* retrouver des contacts
-* contrôle de son image
-* notion de partage facilité
-* facilité d'accéssibilité (connection multi-plateformes)
-* accès à l'information (actualités, renseignement sur une entreprise, etc...)
-* possibilité de resteindre certains contenus
+|                                 **Avantages**                                |                  **Inconvénients**                 |
+|:----------------------------------------------------------------------------:|:--------------------------------------------------:|
+| visibilité                                                                   | visibilité                                         |
+| retrouver des contacts                                                       | prédateurs                                         |
+| contrôle de son image                                                        | charte (conditions générales)                      |
+| notion de partage facilité                                                   | "illusion" de privé                                |
+| facilité d'accéssibilité (connection multi-plateformes)                      | addiction                                          |
+| accès à l'information (actualités, renseignement sur une entreprise, etc...) | plus de conversations dans la vie réel             |
+| possibilité de resteindre certains contenus                                  | les groupes et les pages inutiles et sans intérêts |
+|                                                                              | revente de données privées                         |
 
-###  Inconvénients:
-* visibilité
-* prédateurs
-* charte (conditions générales)
-* "Illusion" de privé
-* addiction
-* plus de conversations dans la vie réel
-* les groupes et les pages inutiles et sans intérêts
-* revente de données privées
-* sécurité
-
-  * Entourer sécurité sur le tableau
+Entourer sécurité sur le tableau
 Les réseaux sociaux donc présentent de nombreuses failles, comme la difficulté de réguler l'accès à nos données aux personnes voulues. 
 
-> montrer vidéo hacking https://youtu.be/jQ_BzKKSzqE
->lancement atelier hacking. 
+> Montrer vidéo hacking https://youtu.be/jQ_BzKKSzqE
+> Lancement atelier hacking. 
 
-Montrer à quel point nos données sont collectées et stockées, revendues (montrer exemple avec onglet pub donneés téléchargées) avec téléchargement des données facebook. 
+On propose à tous les participants, par groupe de 2 ou 3 pendant 15 minutes, de pirater un compte Facebook (Johanna Martin, faux compte) en montrant par la suite qu'on a accès à toutes ses données.  
+Pour trouver le mot de passe Facebook, on identifie des indices par rapport aux contenus du profil (mdp: à définir).  
+Les encadrants sont là pour guider les groupes.  
+Montrer à quel point nos données sont collectées et stockées, revendues (montrer exemple dans Paramètres généraux > Télécharger une copie) avec téléchargement des données facebook. 
 
-> faire télécharger ses données à un volontaire si pas de volontaires utiliser faux compte. 
+> Faire télécharger ses données à un volontaire si pas de volontaires utiliser faux compte. 
 
 On peut néanmoins limiter les risques de récupération de données personnelles. Nous allons vous montrer comment sécuriser facebook.
 
+![Demo1](profil.png)
+![Demo2](ciblagepublicitaire.png)
+
 
 Sécurisation 
----
-> Qui a lue la **charte**?
->Atelier modification des paramètres facebook
+============
 
-Le premier pas vers la sécurité ce fait sur Facebook même, dans les **Paramètres** puis dans **Sécurité**, à partir de là, vous pouvez activer les **alertes de connexion**, par mail ou par notification. Ces notifications nous alertent lorsqu'une connexion sur notre compte a lieu depuis un appareil ou un navigateur non reconnu.  
+> Qui a lue la **charte?**
 
-Jetez ensuite un coup d'oeil aux **approbations de connexion** pour activer un deuxième facteur de connexion, en plus de votre mot de passe. Vous pouvez le faire par *SMS*, *générateur de code* depuis l'application mobile, *codes de récupération* et depuis peu une clé USB de sécurité U2F.  
-Relier votre compte Facebook à votre numéro de téléphone est l'un des moyens de sécurité le plus important.  
+**Atelier modification des paramètres facebook**
 
+Le premier pas vers la sécurité ce fait sur Facebook même, dans les Paramètres puis dans Sécurité, à partir de là, vous pouvez activer les alertes de connexion, par mail ou par notification. Ces notifications nous alertent lorsqu'une connexion sur notre compte a lieu depuis un appareil ou un navigateur non reconnu.
 
-Une autre option bien pratique, est de pouvoir surveiller toutes les connexions au compte dans **où vous êtes connecté(e)**, vous pourrez ainsi voir, par type d'utilisation, la date des derniers accès, le lieu et le type d'appareil (ex: Chrome sur Linux).
+Jetez ensuite un coup d'oeil aux approbations de connexion pour activer un deuxième facteur de connexion, en plus de votre mot de passe. Vous pouvez le faire par SMS, générateur de code depuis l'application mobile, codes de récupération et depuis peu une clé USB de sécurité U2F.
+Relier votre compte Facebook à votre numéro de téléphone est l'un des moyens de sécurité le plus important.
+
+Une autre option bien pratique, est de pouvoir surveiller toutes les connexions au compte dans où vous êtes connecté(e), vous pourrez ainsi voir, par type d'utilisation, la date des derniers accès, le lieu et le type d'appareil (ex: Chrome sur Linux).
 
 Enfin, en dehors de Facebook, faites attention à ce que vous recevez dans vos mails, aux sites que vous visitez. Certains virus notent tout ce que vous tapez sur votre ordinateur ou téléphone, et donc, forcément, vos mots de passe.
 
-Suggérer aux auditeurs de poursuivre leurs investigations sur les possibilités offertes par les paramètres.
+Suggérer aux auditeurs de poursuivre leurs investigations sur les possibilités offertes par les paramètres. 
 
-> noter ce qu'ils en ont retenu ou leurs préjugés sur son contenu?
+> Noter ce qu'ils en ont retenu ou leurs préjugés sur son contenu?
 > Si non cité leur demander si facebook peut utiliser librement leur photos?
 
-> Présenter logiciel **terms of service**
+---
 
-Ce logiciel permet de mettre en évidence les parties dignes d'intérêt des chartes d'utilisations des sites internets. Les points positifs et négatifs des licences sont clairement identifiés.   
-Montrer la comparaison entre la taille de la charte facebook et le résumé de terms of use.
+Présentation du logiciel **Terms of service**.  
 
-Charte facebook : https://www.facebook.com/terms
-Pour télécharger terms of use : https://tosdr.org/
+Ce logiciel permet de mettre en évidence les parties dignes d'intérêt des chartes d'utilisations des sites internets. Les points positifs et négatifs des licences sont clairement identifiés.  
+Montrer la comparaison entre la taille de la charte facebook et le résumé de terms of use.  
 
-Points notables de la charte :
+*Charte facebook*: https://www.facebook.com/terms  
+*Pour télécharger terms of use*: https://tosdr.org/  
 
-Vos données sont partagées avec de nombreux services comme Bing et TripAdvisor.
+**Points notables de la charte:**  
+* Vos données sont partagées avec de nombreux services comme Bing et TripAdvisor.  
+* Facebook trace votre activité sur les autres sites webs. Ces données sont utilisées pour cibler vos publicités.  
 
-Facebook trace votre activité sur les autres sites webs. Ces données sont utilisées pour cibler vos publicités.
+---
 
+Présentation de **LightBeam**.  
 
-Facebook ne se limite pas a lui même mais "traque" sur les autres sites passage court sur **Lightbeam** puis... 
-Pour télécharger lightbeam : https://www.mozilla.org/fr/lightbeam/
-On voit bien que facebook envoie des données à de nombreux sites.
+Facebook ne se limite pas a lui même mais "traque" sur les autres sites.  
+On voit bien que facebook envoie des données à de nombreux sites.  
+*Pour télécharger lightbeam:* https://www.mozilla.org/fr/lightbeam/  
 
-Présentation de **ghostery**.
-Pour télécharger ghostery : https://extension.ghostery.com/en/settings
-Supposé désactiver l'envoie de données vers sites tiers.
+Présentation de **Ghostery**.  
 
+Supposé désactiver l'envoie de données vers sites tiers.  
+*Pour télécharger ghostery:* https://extension.ghostery.com/en/settings  
 
-conclusion
-=====
+Conclusion
+----------
 Insister sur l'importance d'un mot de passe fort + avoir des MDP différents sur chaque site et les plus variés possibles. Rappeler qu'il faut limiter au maximum la publication de données compromettantes.
+
 Ouverture
-----
+=========
 > Diaspora-fr.org reseau social sécurisé sans revente de données perso.
 
 **Diaspora** est un réseau social respectueux de ses utilisateurs. Il accorde la plus grande importance à la protection de la vie privée : il ne revend ainsi aucune information, n'affiche pas de pub, chiffre les données échangées et permet l'utilisation de pseudonymes.    Comme Facebook, il permet de:
@@ -225,5 +228,5 @@ Ouverture
 
 <center>https://diaspora-fr.org/</center>
 
->Avez-vous des questions?
+> Avez-vous des questions?
 
