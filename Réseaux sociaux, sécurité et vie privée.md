@@ -17,13 +17,14 @@ minimum 1 pour 3 personnes
 Légende
 =======
 
-> interactions
+> Interactions avec le public
 
 Matériel
 ========
 Tableau ou paper board feutres 4 pc avec internet.  
-Les PC doivent déjà avoir "*Ghostery*, *LightBeam*, *TermsofUse didn't read*.  
-Projecteur indispensable !  
+Les PC doivent déjà avoir "*Ghostery*, *LightBeam*, *TermsofUse didn't read*, *LastPass*.  
+Projecteur indispensable avec enceintes.  
+Un bloc de Post-It.  
 
 *********************************************************************************
 Présentation
@@ -47,18 +48,23 @@ Le développement web consite en la construction de site web et nécessite l'app
 *********************************************************************************
 Déroulement de l'atelier
 ---
-* Définitions
-* Présentation des principaux réseaux sociaux
-* Débat
- * Atelier hacking
- * Présentation des données présentes sur facebook
+* Présentation *(Aude)*
+	* Formation
+	* But de l'atelier
+* Définitions *(Aude)*
+* Présentation des principaux réseaux sociaux *(Stéphane)*
+* Débat *(Emilie + / Aude -)*
+	* Atelier de piratage *(Stéphane)*
+	* Présentation des données présentes sur facebook *(Anthony)*
 * Sécurisation
- * Paramètres facebook
-* Présentation des outils de sécurisation et mise en évidence de la collecte de données
- * terms of use
- * lightbeam
- * ghostery
-* Conclusion
+	* Paramètres facebook *(Stéphane)*
+	* Présentation des outils de sécurisation et mise en évidence de la collecte de données *(Quentin)*
+		* Terms of use
+		* LightBeam
+		* Ghostery
+		* Duckduckgo
+		* Lastpass, Keypass, Onepass
+* Conclusion & Ouverture *(Mickaël)*
 
 ********************************************************************************
 
@@ -77,15 +83,25 @@ Les applications qui compose ces réseaux sociaux servent à constituer un rése
 > Que connaissez vous comme réseaux sociaux?
 Résumer les réponses au tableau  
 
-Correction par les encadrants :
+Correction par les encadrants:
+
+![Carte](carte.jpg)
+
+![Graphique Total Utilisation RS](social_user.jpg)  
+*Source: http://fr.slideshare.net/HlneDecourteix/quelle-place-pour-les-rseaux-sociaux-en-pharmacie*
+
+![Graphique Utilisation RS Age](social_user_age.jpg)  
+*Source: http://www.blogdumoderateur.com/chiffres-reseaux-sociaux/*
 
 ![Facebook Logo](Facebook.jpg)  
 **Le principe:** ce réseau permet de partager son status, des photos, des liens et des vidéos. Facebook est aussi utilisé par les entreprises, les artistes pour leur promotion grâce aux pages fans accessibles à tous.  
 **Les raisons de s'inscrire:** la communauté est très importante, il est donc très facile d'y retrouver des membres de son entourage. C'est aussi un moyen de communiquer très efficace.  
 
 ![Twitter Logo](twitter.jpg)  
-**Le principe:** Twitter est un outil de microblogging qui permet d'envoyer des messages (ou "tweet") de 140 caractères aux internautes qui suivent chaque compte: les "followers" ou abonnés.  
-**Les raisons de s'inscrire:** pour suivre l'actualité en direct.  
+**Le principe:** Twitter est un outil de microblogging qui permet d'envoyer des messages (ou "tweet") de 140 caractères aux internautes qui suivent chaque compte: les "followers" ou abonnés. Twitter est aussi très ouvert pour les entreprises.  
+**Les raisons de s'inscrire:** pour suivre l'actualité en direct et également communiquer avec les entreprises.  
+
+> **La différence entre Facebook et Twitter c'est que Facebook est un réseau social avec du contenu permanent tandis que Twitter affiche du contenu instantané.**  
 
 ![Instagram Logo](Instagram.jpg)  
 **Le principe:** Instagram est une application mobile de partage de photo.  
@@ -123,9 +139,10 @@ Correction par les encadrants :
 ![Twitch Logo](twitch.jpg)  
 **Le principe:** c'est une plateforme de livestream de jeux vidéos permettant aux joueurs de retransmettre en direct leurs parties et de les commenter.  
 
+**!!!!!!!!!!!!!!!!!!!! AJOUTER PROPRIETAIRE DES RESEAUX SOCIAUX !!!!!!!!!!!!!!!!!!!!!!!!**
+
 **Liste de tous les réseaux sociaux, triés par catégories:** http://www.webmarketing-conseil.fr/liste-reseaux-sociaux/  
 
-![Carte](carte.jpg)
 
 Mise en place d'un débat sur les avantages et inconvénients des réseaux sociaux
 -----
@@ -160,17 +177,15 @@ Montrer à quel point nos données sont collectées et stockées, revendues (mon
 
 > Faire télécharger ses données à un volontaire si pas de volontaires utiliser faux compte. 
 
-
 ![Demo1](profil.png)
 ![Demo2](ciblagepublicitaire.png)
-
 
 On peut néanmoins limiter les risques de récupération de données personnelles. Nous allons vous montrer comment sécuriser facebook.
 
 Sécurisation 
 ============
 
-> Qui a lue la **charte?**
+> Qui a lue la **charte Facebook ?**
 
 **Atelier modification des paramètres facebook**
 
@@ -181,22 +196,24 @@ Relier votre compte Facebook à votre numéro de téléphone est l'un des moyens
 
 Une autre option bien pratique, est de pouvoir surveiller toutes les connexions au compte dans où vous êtes connecté(e), vous pourrez ainsi voir, par type d'utilisation, la date des derniers accès, le lieu et le type d'appareil (ex: Chrome sur Linux).
 
-Enfin, en dehors de Facebook, faites attention à ce que vous recevez dans vos mails, aux sites que vous visitez. Certains virus notent tout ce que vous tapez sur votre ordinateur ou téléphone, et donc, forcément, vos mots de passe.
+Enfin, en dehors de Facebook, faites attention à ce que vous recevez dans vos mails, aux sites que vous visitez. Certains virus notent tout ce que vous tapez sur votre ordinateur ou téléphone, et donc, forcément, vos mots de passe.  
+Rappeler qu'il faut limiter au maximum la publication de données compromettantes.  
 
-Suggérer aux auditeurs de poursuivre leurs investigations sur les possibilités offertes par les paramètres. 
+Suggérer aux auditeurs de poursuivre leurs investigations sur les possibilités offertes par les paramètres.  
 
+> Prouver à quel point la charte de Facebook est immense (ex: le petit prince)  
 > Noter ce qu'ils en ont retenu ou leurs préjugés sur son contenu?
 > Si non cité leur demander si facebook peut utiliser librement leur photos?
 
 ---
 
-Présentation du logiciel **Terms of service**.  
+Présentation du logiciel **Terms of service, Didn't Read**.  
 
 Ce logiciel permet de mettre en évidence les parties dignes d'intérêt des chartes d'utilisations des sites internets. Les points positifs et négatifs des licences sont clairement identifiés.  
 Montrer la comparaison entre la taille de la charte facebook et le résumé de terms of use.  
 
 *Charte facebook*: https://www.facebook.com/terms  
-*Pour télécharger terms of use*: https://tosdr.org/  
+*Pour télécharger terms of service*: https://tosdr.org/  
 
 **Points notables de la charte:**  
 * Vos données sont partagées avec de nombreux services comme Bing et TripAdvisor.  
@@ -208,6 +225,7 @@ Présentation de **LightBeam**.
 
 Facebook ne se limite pas a lui même mais "traque" sur les autres sites.  
 On voit bien que facebook envoie des données à de nombreux sites.  
+Jeter un coup d'oeil avec Amazon, le résultat est surprenant.
 *Pour télécharger lightbeam:* https://www.mozilla.org/fr/lightbeam/  
 
 Présentation de **Ghostery**.  
@@ -215,9 +233,21 @@ Présentation de **Ghostery**.
 Supposé désactiver l'envoie de données vers sites tiers.  
 *Pour télécharger ghostery:* https://extension.ghostery.com/en/settings  
 
-Conclusion
-----------
-Insister sur l'importance d'un mot de passe fort + avoir des MDP différents sur chaque site et les plus variés possibles. Rappeler qu'il faut limiter au maximum la publication de données compromettantes.
+---
+
+Présentation de **DuckduckGo**  
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!! A DEVELOPPER !!!!!!!!!!!!!!!!!!!!!!!!
+
+Faire le test avec *Lightbeam* que aucun site ne trace nos données.
+
+---
+
+Présentation des outils de gestion de mot de passe: **One Pass, KeyPass, Lastpass**  
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!! A DEVELOPPER !!!!!!!!!!!!!!!
+
+Il faut donc insister sur l'importance d'un mot de passe fort mais aussi d'avoir des MDP différents sur chaque site et les plus variés possibles.  
 
 Ouverture
 =========
@@ -232,5 +262,10 @@ Ouverture
 
 <center>https://diaspora-fr.org/</center>
 
-> Avez-vous des questions?
+---
 
+> Mewe
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! A DEVELOPPER !!!!!!!!!!!!!!!!!!!!!
+
+> Avez-vous des questions ?
