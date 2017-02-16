@@ -160,11 +160,12 @@ Montrer à quel point nos données sont collectées et stockées, revendues (mon
 
 > Faire télécharger ses données à un volontaire si pas de volontaires utiliser faux compte. 
 
-On peut néanmoins limiter les risques de récupération de données personnelles. Nous allons vous montrer comment sécuriser facebook.
 
 ![Demo1](profil.png)
 ![Demo2](ciblagepublicitaire.png)
 
+
+On peut néanmoins limiter les risques de récupération de données personnelles. Nous allons vous montrer comment sécuriser facebook.
 
 Sécurisation 
 ============
