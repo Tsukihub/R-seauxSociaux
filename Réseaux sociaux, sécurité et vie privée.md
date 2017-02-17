@@ -35,7 +35,7 @@ Chacun se présente
 
 * Vous êtes ici pour suivre un atelier sur les réseaux sociaux, leur sécurisation et la vie privée sur ces derniers.
 
-* Cet atelier animé dans le cadre de la formation développeur web que nous suivons pour nous apprendre à transmettre nos connaissances.
+* Cet atelier est animé dans le cadre de la formation développeur web que nous suivons pour nous apprendre à transmettre nos connaissances.
 
 * Le développement web consite en la construction de site web et nécessite l'apprentissage de différents languages, comme le HTML, le CSS, le javascript et le PHP.
 
