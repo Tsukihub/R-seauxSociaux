@@ -31,19 +31,19 @@ Présentation
 ============
 formation
 ---
+Chacun se présente  
 
+* Vous êtes ici pour suivre un atelier sur les réseaux sociaux, leur sécurisation et la vie privée sur ces derniers.
 
-* Face (fondation agir contre l'exclusion) est une association qui vise à réconcilier le monde de l'entreprise et les personnes exclues de l'emploi.
-dans ce but l'association FACE Bourbornnais a permis la mise en place d'une école du numérique sur moulins. 
+* Cet atelier animé dans le cadre de la formation développeur web que nous suivons pour nous apprendre à transmettre nos connaissances.
 
-* Nous sommes en formation dév web.
-Le développement web consite en la construction de site web et nécessite l'apprentissage de différents languages, comme le HTML, le CSS, le javascript et le PHP.
+* Le développement web consite en la construction de site web et nécessite l'apprentissage de différents languages, comme le HTML, le CSS, le javascript et le PHP.
 
 > Demander si précisions désirées ou si l'on se focalise sur les réseaux sociaux.
 
-* Et dans ce cadre, cet atelier nous permettra d'apprendre à transmettre nos connaissances à un publique non spécialiste. Autrement dit d'apprendre à vulgariser des termes techniques et à s'exprimer clairement. 
-
- * Le thème de cet atelier nous concerne tous. Nous allons en effet vous faire découvrir la face cachée des réseaux sociaux. 
+* Cette formation à Moulins à été mise en place à l'initiative de Face (fondation agir contre l'exclusion), qui est une association qui vise à réconcilier le monde de l'entreprise et les personnes exclues de l'emploi.
+dans ce but l'association FACE Bourbornnais a permis la mise en place d'une école du numérique sur moulins. 
+ 
 
 *********************************************************************************
 Déroulement de l'atelier
@@ -58,12 +58,12 @@ Déroulement de l'atelier
 	* Présentation des données présentes sur facebook *(Anthony)*
 * Sécurisation
 	* Paramètres facebook *(Stéphane)*
-	* Présentation des outils de sécurisation et mise en évidence de la collecte de données *(Quentin)*
-		* Terms of use
+	* Présentation des outils protection de ses données et mise en évidence de la collecte de données *(Quentin)*
+		* Terms of service
 		* LightBeam
 		* Ghostery
 		* Duckduckgo
-		* Lastpass, Keypass, Onepass
+		* Lastpass
 * Conclusion & Ouverture *(Mickaël)*
 
 ********************************************************************************
@@ -101,7 +101,7 @@ Correction par les encadrants:
 **Le principe:** Twitter est un outil de microblogging qui permet d'envoyer des messages (ou "tweet") de 140 caractères aux internautes qui suivent chaque compte: les "followers" ou abonnés. Twitter est aussi très ouvert pour les entreprises.  
 **Les raisons de s'inscrire:** pour suivre l'actualité en direct et également communiquer avec les entreprises.  
 
-> **La différence entre Facebook et Twitter c'est que Facebook est un réseau social avec du contenu permanent tandis que Twitter affiche du contenu instantané.**  
+> **La différence entre Facebook et Twitter c'est que Twitter est plus axé sur le direct et l'instantané.**  
 
 ![Instagram Logo](Instagram.jpg)  
 **Le principe:** Instagram est une application mobile de partage de photo.  
@@ -237,17 +237,29 @@ Supposé désactiver l'envoie de données vers sites tiers.
 
 Présentation de **DuckduckGo**  
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!! A DEVELOPPER !!!!!!!!!!!!!!!!!!!!!!!!
+
+Moteur de recherche américain dont le siège social est en Pennsylvanie.
+
+DuckDuckGo se place en défenseur de la vie privée sur le Web. Le site affirme ne pas enregistrer les requêtes effectuées et ne permettrait pas à d'autres sites de le faire, s'opposant ainsi au tracking. 
+
+D'autre part, comme pour tout service Web, la politique de respect de la vie privée de DuckDuckGo n'offre pas de garantie contre le piratage informatique pratiqué par certains services de renseignement tels que la NSA à des fins de surveillance individuelle ou globale (voir Révélations d'Edward Snowden).
+
+Contrairement à google les résultats de recherche ne sont pas resteints en fonction de nos recherches précédentes et de notre localisation mais s'étendant à l'ensemble du web.
+
 
 Faire le test avec *Lightbeam* que aucun site ne trace nos données.
 
 ---
 
-Présentation des outils de gestion de mot de passe: **One Pass, KeyPass, Lastpass**  
+Présentation des outils de gestion de mot de passe: **Lastpass**  
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!! A DEVELOPPER !!!!!!!!!!!!!!!
+L'utilisation de logiciel de stockage de mot de passe peut également permettre de sécuriser d'avantage vos données. En effet vous pourrez sans crainte d'oubli utiliser des mots de passe variés et complexes. Vous pouvez par exemple utiliser Lastpass.
 
-Il faut donc insister sur l'importance d'un mot de passe fort mais aussi d'avoir des MDP différents sur chaque site et les plus variés possibles.  
+*Pour télécharger Lastpass:* https://www.mozilla.org/fr/lightbeam/   
+Conclusion
+===
+
+Insister sur l'importance d'un mot de passe fort + avoir des MDP différents sur chaque site et les plus variés possibles. Rappeler qu'il faut limiter au maximum la publication de données compromettantes. 
 
 Ouverture
 =========
@@ -260,12 +272,11 @@ Ouverture
 * **Gérer ses contacts** en les classant en différentes catégories afin de contrôler la visibilité du contenu
 * **Lier son compte** à ses comptes Twitter, Tumblr et Facebook, afin de publier depuis diaspora vers les autres réseaux
 
+* Ils existe d'autre réseaux sociaux respectueux de la vie privée comme MeWe.
+
 <center>https://diaspora-fr.org/</center>
 
 ---
 
-> Mewe
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! A DEVELOPPER !!!!!!!!!!!!!!!!!!!!!
 
 > Avez-vous des questions ?
