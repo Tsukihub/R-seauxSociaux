@@ -55,16 +55,16 @@ Déroulement de l'atelier
 * Présentation des principaux réseaux sociaux *(Stéphane)*
 * Débat *(Emilie + / Aude -)*
 	* Atelier de piratage *(Stéphane)*
-	* Présentation des données présentes sur facebook *(Anthony)*
+	* Présentation des données présentes sur facebook *(Aude)*
 * Sécurisation
 	* Paramètres facebook *(Stéphane)*
-	* Présentation des outils protection de ses données et mise en évidence de la collecte de données *(Quentin)*
+	* Présentation des outils protection de ses données et mise en évidence de la collecte de données *(aude)*
 		* Terms of service
 		* LightBeam
 		* Ghostery
 		* Duckduckgo
 		* Lastpass
-* Conclusion & Ouverture *(Mickaël)*
+* Conclusion & Ouverture *(steph)*
 
 ********************************************************************************
 
